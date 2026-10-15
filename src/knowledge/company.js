@@ -1,5 +1,3 @@
-// SINGLE SOURCE OF TRUTH about the company.
-// Used by: the AI prompt (buildSystemPrompt) and the DB seed script (scripts/seed-company.js).
 
 const COMPANY_INFO = {
   name: 'Ooredoo Algérie',
